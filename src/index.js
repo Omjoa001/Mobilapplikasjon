@@ -1,5 +1,5 @@
 // @flow
-
+//This is a school assignment published on git for ease of use.
 import * as React from 'react';
 import { Component } from 'react-simplified';
 import { View, Text, TextInput } from 'react-native';
